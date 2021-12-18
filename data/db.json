@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Front-End Developer",
+      "id": 1,
+      "details": "lorem"
+    },
+    {
+      "title": "Web Designer",
+      "id": 2,
+      "details": "lorem"
+    },
+    {
+      "title": "Back-End Developer",
+      "id": 3,
+      "details": "lorem"
+    }
+  ]
+}
