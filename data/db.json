@@ -3,17 +3,17 @@
     {
       "title": "Front-End Developer",
       "id": 1,
-      "details": "lorem"
+      "details": " Front end development manages everything that users visually see first in their browser or application. ... You manage what people first see in their browser. As a front end developer you are responsible for the look, feel and ultimately design of the site."
     },
     {
       "title": "Web Designer",
       "id": 2,
-      "details": "lorem"
+      "details": "As a web designer, you'll plan, create and code web pages, using both technical and non-technical skills to produce websites that fit your customers' requirements. Being involved in the technical and graphical aspects of pages, you'll determine not only the look of the website but how it works as well."
     },
     {
       "title": "Back-End Developer",
       "id": 3,
-      "details": "lorem"
+      "details": "A backend developer is one who makes use of the technology required to develop the products for the backend of any website. A backend developer is responsible for building the structure of a software application. Backend developers typically work in groups or with a team."
     }
   ]
 }
